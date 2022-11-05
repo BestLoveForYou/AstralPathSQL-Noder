@@ -1,0 +1,67 @@
+
+Server|2022-11-04 11:52:36|Server started!port:13161
+
+Server|2022-11-04 11:52:36|Server started!port:13160
+
+Server|2022-11-04 11:52:36|Server started!port:13159
+
+Server|2022-11-04 11:53:48|Server started!port:13161
+
+Server|2022-11-04 11:53:48|Server started!port:13160
+
+Server|2022-11-04 11:53:48|Server started!port:13159
+
+Server|2022-11-04 11:54:21|Server started!port:13160
+
+Server|2022-11-04 11:54:21|Server started!port:13161
+
+Server|2022-11-04 11:54:21|Server started!port:13159
+
+Server|2022-11-04 10:21:55|Server started!port:13161
+
+Server|2022-11-04 10:21:55|Server started!port:13160
+
+Server|2022-11-04 10:21:55|Server started!port:13159
+
+Server|2022-11-04 10:23:25|Server started!port:13161
+
+Server|2022-11-04 10:23:25|Server started!port:13160
+
+Server|2022-11-04 10:23:25|Server started!port:13159
+
+Server|2022-11-04 10:25:03|Server started!port:13160
+
+Server|2022-11-04 10:25:03|Server started!port:13161
+
+Server|2022-11-04 10:25:03|Server started!port:13159
+
+Server|2022-11-04 10:26:27|Server started!port:13160
+
+Server|2022-11-04 10:26:27|Server started!port:13161
+
+Server|2022-11-04 10:26:27|Server started!port:13159
+
+Server|2022-11-04 10:34:13|Server started!port:13160
+
+Server|2022-11-04 10:34:13|Server started!port:13161
+
+Server|2022-11-04 10:34:13|Server started!port:13159
+0.0.0.0|2022-11-04 10:34:16|client
+
+Server|2022-11-04 10:36:04|Server started!port:13161
+
+Server|2022-11-04 10:36:04|Server started!port:13160
+
+Server|2022-11-04 10:36:04|Server started!port:13159
+127.0.0.1|2022-11-04 10:36:14|client
+127.0.0.1|2022-11-04 10:36:24|desc
+127.0.0.1|2022-11-04 10:36:50|s
+127.0.0.1|2022-11-04 10:36:52|ssssssssss
+127.0.0.1|2022-11-04 10:36:54|desc
+
+Server|2022-11-04 10:58:07|Server started!port:13161
+
+Server|2022-11-04 10:58:07|Server started!port:13160
+
+Server|2022-11-04 10:58:07|Server started!port:13159
+127.0.0.1|2022-11-04 10:58:32|desc

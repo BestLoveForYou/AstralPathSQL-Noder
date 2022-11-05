@@ -1,0 +1,11 @@
+
+Server|2022-09-17 08:43:07|Server started!port:3306
+0.0.0.0|2022-09-17 08:43:16|desc table
+0.0.0.0|2022-09-17 08:43:23|select * from user
+0.0.0.0|2022-09-17 08:43:48|update user set username = 123 where id = 1
+0.0.0.0|2022-09-17 08:44:02|update user set prop = 123 where id = 1
+0.0.0.0|2022-09-17 08:44:12|select * from user
+0.0.0.0|2022-09-17 08:44:16|save
+0.0.0.0|2022-09-17 08:44:57|stop
+
+Server|2022-09-17 09:00:20|Server started!port:3306
